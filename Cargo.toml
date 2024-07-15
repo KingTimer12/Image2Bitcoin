@@ -1,0 +1,12 @@
+[package]
+name = "image2Bitcoin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+bip39 = "2.0.0"
+image = "0.25.1"
+regex = "1.10.5"
+rustc-serialize = "0.3.25"
+sha2 = "0.10.8"
